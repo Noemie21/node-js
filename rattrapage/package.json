@@ -1,0 +1,22 @@
+{
+  "name": "rattrapage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^10.4.0",
+    "ip": "^1.1.5",
+    "is-up": "^4.0.0",
+    "jsdom": "^16.2.2",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.6.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
